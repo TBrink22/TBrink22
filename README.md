@@ -6,11 +6,13 @@ I am an enrolled Tennessee Tech Student on my third of study, having transfered 
 
 ---
 ### Languages and Tools
-<img align="left" alt="java" width="30px" style="padding-right:10px;" scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-<img align="left" alt="python" width="30px" style="padding-right:10px;" scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
-<img align="left" alt="assmebly" width="30px" style="padding-right:10px;" scr="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000">
+<img align="left" alt="Assembly" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000"/>
+
+
 
 
 
