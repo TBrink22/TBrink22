@@ -1,9 +1,5 @@
 # TBrink22 
 
-**`Computer Scientist (Programmer/Cyber/Linux)`**
-
-I am an enrolled Tennessee Tech Student on my third of study, having transfered from Columbia State Community College. Most of my commits are private school related projects but I will be adding public projects soon. I have a passion for computers that I hope to leverage in a profressional setting, producing meaningful work.
-
 ---
 ### Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
